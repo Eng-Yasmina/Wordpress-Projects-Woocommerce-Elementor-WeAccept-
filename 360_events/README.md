@@ -1,7 +1,7 @@
 # Event Management with FooEvents for WooCommerce
 
 ## Overview
-- This project is about events management with FooEvents for WooCommerce that we used to create and sell tickets for the events directly from our WooCommerce store to serve adequately scaled clients of an entertainment services firm that has been planning and managing events. The system is in charge of creating and generating tickets for users, as well as introducing custom variations for events using FooEvents, the ultimate event management solution seamlessly integrated with WooCommerce.
+- This project is about events management with FooEvents for WooCommerce system that we developed to create and sell tickets for the events directly from our WooCommerce store to serve adequately scaled clients of an entertainment services firm that has been planning and managing events. The system is in charge of creating and generating tickets for users, as well as introducing custom variations for events using FooEvents, the ultimate event management solution seamlessly integrated with WooCommerce.
 - We transformed our WooCommerce store into a powerhouse of affiliate marketing with YITH WooCommerce Affiliates Premium. This robust plugin introduced a seamless and efficient affiliate system that empowerd our business to grow through strategic partnerships.
 
 
@@ -86,4 +86,48 @@ Empowered our affiliates with a dedicated dashboard. Provide us with the tools w
 Referral var name: ref
 Referral cookie name: yith_wcaf_referral_token
 
+```
+### FooEvents for WooCommerce 
+```
+    1. Install and Activate FooEvents
+        Step 1: In the WordPress admin dashboard, navigate to "Plugins" > "Add New."
+        Step 2: Click on the "Upload Plugin" button and upload the FooEvents ZIP file.
+        Step 3: Activate the FooEvents plugin.
+
+    2. Basic Settings
+        Step 1: Once activated, go to "WooCommerce" > "FooEvents" in the WordPress dashboard.
+        Step 2: Configure the basic settings, including the default currency, date format, and ticket numbering preferences.
+
+    3. Create an Event
+        Step 1: Navigate to "WooCommerce" > "Products" > "Add Product."
+        Step 2: Enter the event name, details, and any relevant information.
+        Step 3: Scroll down to the "FooEvents" section, where we can set the event date, time, and location.
+        Step 4: Choose the ticket type (e.g., Single, Variable, Seasonal), set the price, and configure any additional ticket options.
+    
+    4. Customize Ticket Design
+        Step 1: In the FooEvents settings, go to the "Ticket Design" tab.
+        Step 2: Customize the ticket design by adding the logo, event details, and any branding elements.
+
+    5. Integrate Payment Gateways
+        Step 1: Navigate to "WooCommerce" > "Settings" > "Payments."
+        Step 2: Enable and configure the payment gateways we want to use for event ticket sales (Paymob).
+
+    6. Mobile Check-Ins
+        Step 1: Download the FooEvents Check-ins app on the mobile device.
+        Step 2: In the FooEvents settings, go to the "Mobile Check-ins" tab.
+        Step 3: Generate and configure the API key for mobile check-ins.
+    
+    7. Barcode and QR Code Integration
+        Step 1: In the FooEvents settings, go to the "Ticket Design" tab.
+        Step 2: Enable barcode and QR code integration.
+        Step 3: Configure the settings and save the changes.
+
+    8. Automated Communication
+        Step 1: In the FooEvents settings, go to the "Notifications" tab.
+        Step 2: Configure automated email notifications for order confirmations, event reminders, and updates.
+
+    9. Launch the Event
+        Step 1: Once we've configured all settings, publish the event product.
+        Step 2: Share the event page URL with the audience.
+        Step 3: Monitor ticket sales and attendee details in real-time from the FooEvents dashboard.
 ```
