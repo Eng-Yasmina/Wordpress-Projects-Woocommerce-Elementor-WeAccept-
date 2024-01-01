@@ -63,7 +63,7 @@
 ![buy-ticket.gif](./docs/screenshots/demo_360.gif)
 ![orders-ticket.png](./docs/screenshots/orders.png)
 
-### Landing Page
+   ### Landing Page
 
 ![landing-page.png](./docs/screenshots/landing_page.png)
 
